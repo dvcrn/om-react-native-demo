@@ -1,0 +1,17 @@
+venv
+node_modules
+/target
+/classes
+/checkouts
+pom.xml
+pom.xml.asc
+*.jar
+*.class
+/.lein-*
+/.nrepl-port
+.hgignore
+.hg/
+Pods
+.cljs_rhino_repl/
+*.log
+.repl
