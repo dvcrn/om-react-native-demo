@@ -1,14 +1,14 @@
-# demo
+# om.next with python server demo
 
-A Clojure library designed to ... well, that part is up to you.
+I used this code as demo at the Tokyo iOS meetup on Nov 13th 2015.
 
 ## Usage
 
-FIXME
+- `lein cljsbuild once`
+- `pip3 install -i server/requirements.txt`
+- `python3 server/manage.py runserver`
+- `natal launch`
 
 ## License
 
-Copyright © 2015 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Copyright © 2015 David @ MIT
