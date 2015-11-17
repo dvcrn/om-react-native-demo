@@ -11,4 +11,4 @@ I used this code as demo at the Tokyo iOS meetup on Nov 13th 2015.
 
 ## License
 
-Copyright © 2015 David @ MIT
+Copyright © 2015 MIT @ David Mohl
